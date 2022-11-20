@@ -1,2 +1,0 @@
-# fasz
-kucki
